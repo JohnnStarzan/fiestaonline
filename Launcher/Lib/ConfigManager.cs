@@ -19,7 +19,7 @@ namespace Launcher
         {
             this._bSaveWhenValueSet = bSaveWhenValueSet;
             this._LauncherConfig = new LauncherConfig(RegistryRoot, bSaveWhenValueSet);
-            this._SharpLauncherConfig = new SharpLauncherConfig(@"HKEY_LOCAL_MACHINE\Software\pcprime.it\SharpLauncher\", bSaveWhenValueSet);
+            this._SharpLauncherConfig = new SharpLauncherConfig(launcherRoot, bSaveWhenValueSet); // Added launcherRoot
             this._UserConfig = new UserConfig(UserRegistryRoot, bSaveWhenValueSet);
         }
 
