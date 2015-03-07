@@ -1,8 +1,8 @@
-﻿namespace CustomControl
-{
-    using System;
-    using System.Windows.Forms;
+using System;
+using System.Windows.Forms;
 
+namespace Launcher
+{
     internal class TransparentControl : Control
     {
         public TransparentControl()
