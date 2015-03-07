@@ -1,8 +1,8 @@
-﻿namespace CustomControl
+using System;
+using System.Windows.Forms;
+    
+namespace Launcher
 {
-    using System;
-    using System.Windows.Forms;
-
     internal class TransparentRichTextBox : RichTextBox
     {
         public TransparentRichTextBox()
