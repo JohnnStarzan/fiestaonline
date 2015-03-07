@@ -1,10 +1,11 @@
-﻿namespace Launcher
-{
-    using System;
-    using System.ComponentModel;
-    using System.Drawing;
-    using System.Windows.Forms;
+using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Windows.Forms;
 
+namespace Launcher
+{
+    
     public class Server : Form
     {
         private IContainer components = null;
