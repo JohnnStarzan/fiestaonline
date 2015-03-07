@@ -18,7 +18,7 @@ namespace Launcher
             int num = (int)Registry.GetValue(@"HKEY_LOCAL_MACHINE\Software\pcprime.it\SharpLauncher", "Debug", 0);
             if (args.Length < 2)
             {
-                MessageBox.Show("OutsparkPatcher requires 2 arguments");
+                MessageBox.Show("GamePatcher requires 2 arguments");
             }
             else
             {
