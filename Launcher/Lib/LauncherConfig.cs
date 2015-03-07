@@ -19,7 +19,7 @@ namespace Launcher
         public LauncherConfig(string strKey, bool bSaveWhenValueSet) : base(strKey)
         {
             this._bSaveWhenValueSet = bSaveWhenValueSet;
-            string strReturn = null;
+            //string strReturn = null strReturn non puó essere null se la condizione seguente lo vuole diverso da null
             base.getStringValue(ApiURLCONST, ref strReturn);
             if (strReturn != null)
             {
