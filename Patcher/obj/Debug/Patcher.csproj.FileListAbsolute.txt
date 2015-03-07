@@ -1,0 +1,6 @@
+a:\Users\Bijou\documents\visual studio 2013\Projects\Launcher\Patcher\bin\Debug\Patcher.exe
+a:\Users\Bijou\documents\visual studio 2013\Projects\Launcher\Patcher\bin\Debug\Patcher.pdb
+a:\Users\Bijou\documents\visual studio 2013\Projects\Launcher\Patcher\obj\Debug\Launcher.Properties.Resources.resources
+a:\Users\Bijou\documents\visual studio 2013\Projects\Launcher\Patcher\obj\Debug\Patcher.csproj.GenerateResource.Cache
+a:\Users\Bijou\documents\visual studio 2013\Projects\Launcher\Patcher\obj\Debug\Patcher.exe
+a:\Users\Bijou\documents\visual studio 2013\Projects\Launcher\Patcher\obj\Debug\Patcher.pdb

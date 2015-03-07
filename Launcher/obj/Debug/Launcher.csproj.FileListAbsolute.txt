@@ -1,0 +1,10 @@
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.GameAboutBox.resources
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.GameLauncher.resources
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.Settings.resources
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\bin\Debug\Launcher.exe
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\bin\Debug\Launcher.pdb
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.exe
+a:\users\bijou\documents\visual studio 2013\Projects\Launcher\Launcher\obj\Debug\Launcher.pdb
