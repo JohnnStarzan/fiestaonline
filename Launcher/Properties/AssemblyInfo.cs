@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Launcher")]
 [assembly: AssemblyDescription("Game Launcher - Fiesta Online IT")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ONSON SOFT IT")]
+[assembly: AssemblyCompany("UINEN SOFT IT")]
 [assembly: AssemblyProduct("Game Launcher")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
