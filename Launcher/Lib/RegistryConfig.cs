@@ -1,9 +1,9 @@
-﻿namespace Launcher
-{
-    using Microsoft.Win32;
-    using System;
-    using System.Collections.Generic;
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
 
+namespace Launcher
+{
     public class RegistryConfig : IConfig
     {
         protected Dictionary<string, int> _IntegerConfigsDictionary = new Dictionary<string, int>();
